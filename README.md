@@ -32,11 +32,11 @@ This project requires the **ACM Java Task Force** library (`acm.jar`) to handle 
 
 1.  **Compile**:
     ```bash
-    javac -cp ".:/path/to/your/acm.jar" PRACTICA2.java
+    javac -cp ".:/path/to/your/acm.jar" Practica1.java
     ```
 2.  **Run**:
     ```bash
-    java -cp ".:/path/to/your/acm.jar" PRACTICA2
+    java -cp ".:/path/to/your/acm.jar" Practica1
     ```
 
 ## Technical Note (Language)
