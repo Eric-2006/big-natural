@@ -28,11 +28,11 @@ The program takes large strings of numbers, turns them into a format it can work
 
 1.  **Compile the program**:
     ```bash
-    javac PRACTICA2.java
+    javac Practica1.java
     ```
 2.  **Run the utility**:
     ```bash
-    java PRACTICA2
+    java Practica1
     ```
 
 ## Technical Note (Language)
